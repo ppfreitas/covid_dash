@@ -1,0 +1,10 @@
+name: covid_dash
+title:
+username:
+account: ppfreitas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1934130
+bundleId: 2871335
+url: https://ppfreitas.shinyapps.io/covid_dash/
+when: 1583934479.6729
